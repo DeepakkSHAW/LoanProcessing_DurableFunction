@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loan_processing_durablefunction", "loan_processing_durablefunction\loan_processing_durablefunction.csproj", "{7C049028-AE94-4F2A-8D1A-2904D93046CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loan_processing_durablefunction", "loan_processing_durablefunction\loan_processing_durablefunction.csproj", "{7C049028-AE94-4F2A-8D1A-2904D93046CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
